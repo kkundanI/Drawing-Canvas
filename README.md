@@ -1,4 +1,4 @@
-# drawboard
+# Drawboard
 
 A minimal, zero-dependency browser-based drawing app. Open the HTML file and draw — no install, no build step, no server.
 
